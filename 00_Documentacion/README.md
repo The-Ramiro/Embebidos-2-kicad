@@ -1,2 +1,4 @@
 # Embebidos-2-kicad
-GAAAAAAAAAAAAAAAAA!
+Datasheet
+fotos amberso reberso de la placa
+esquematico
