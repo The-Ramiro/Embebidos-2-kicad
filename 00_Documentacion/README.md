@@ -1,4 +1,4 @@
-# Embebidos-2-kicad
+# Embebidos-2-Altium
 Datasheet
 fotos amberso reberso de la placa
-esquematico
+esquematico(dentro del datasheet)
