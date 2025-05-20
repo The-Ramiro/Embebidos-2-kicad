@@ -1,2 +1,2 @@
-# Embebidos-2-kicad
-GAAAAAAAAAAAAAAAAA!
+# Embebidos-2-Altium 
+modelo pcb
